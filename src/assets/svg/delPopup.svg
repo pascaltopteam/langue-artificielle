@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="107.643" viewBox="0 0 83 107.643">
+  <g id="Group_350" data-name="Group 350" transform="translate(-164 -184.357)">
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="41.5" cy="41.5" r="41.5" transform="translate(164 209)" fill="#025e2b"/>
+    <path id="Path_492" data-name="Path 492" d="M27.871,8.9h8.624v3.449H33.045V34.77a1.725,1.725,0,0,1-1.725,1.725H7.174A1.725,1.725,0,0,1,5.449,34.77V12.348H2V8.9h8.624V3.725A1.725,1.725,0,0,1,12.348,2h13.8a1.725,1.725,0,0,1,1.725,1.725ZM29.6,12.348H8.9v20.7H29.6ZM21.686,22.7l3.049,3.049L22.3,28.185l-3.049-3.049L16.2,28.185l-2.439-2.439L16.809,22.7l-3.049-3.049L16.2,17.209l3.049,3.049L22.3,17.209l2.439,2.439ZM14.073,5.449V8.9H24.422V5.449Z" transform="translate(186 231)" fill="#fff"/>
+    <line id="Line_15" data-name="Line 15" y2="11" transform="matrix(0.985, -0.174, 0.174, 0.985, 194.015, 186.674)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    <line id="Line_17" data-name="Line 17" y2="11" transform="matrix(0.766, -0.643, 0.643, 0.766, 170.996, 198.957)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    <line id="Line_16" data-name="Line 16" y2="11" transform="matrix(0.985, 0.174, -0.174, 0.985, 216.649, 186.674)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    <line id="Line_18" data-name="Line 18" y2="11" transform="matrix(0.766, 0.643, -0.643, 0.766, 239.667, 198.957)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

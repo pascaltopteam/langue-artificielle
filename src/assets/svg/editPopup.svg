@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="107.643" viewBox="0 0 83 107.643">
+  <g id="illu-edit" transform="translate(0 2.317)">
+    <g id="Group_249" data-name="Group 249" transform="translate(-0.006 22.326)">
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="41.5" cy="41.5" r="41.5" transform="translate(0.006)" fill="#025e2b"/>
+      <path id="Path_510" data-name="Path 510" d="M6.821,33.595h2.7L27.315,15.769l-2.7-2.706L6.821,30.889Zm30.565,3.828H3V29.3L28.665,3.589a1.909,1.909,0,0,1,2.7,0L36.771,9a1.918,1.918,0,0,1,0,2.706L14.926,33.595h22.46ZM27.315,10.357l2.7,2.706,2.7-2.706-2.7-2.706Z" transform="translate(21.006 20.971)" fill="#fff"/>
+    </g>
+    <g id="Group_276" data-name="Group 276" transform="translate(6.996)">
+      <line id="Line_15" data-name="Line 15" y2="11" transform="matrix(0.985, -0.174, 0.174, 0.985, 23.019, 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_17" data-name="Line 17" y2="11" transform="matrix(0.766, -0.643, 0.643, 0.766, 0, 12.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_16" data-name="Line 16" y2="11" transform="matrix(0.985, 0.174, -0.174, 0.985, 45.653, 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+      <line id="Line_18" data-name="Line 18" y2="11" transform="matrix(0.766, 0.643, -0.643, 0.766, 68.671, 12.282)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

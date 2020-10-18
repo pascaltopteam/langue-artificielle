@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607734013013",
+    "firebase_url": "https://avocadoo-278519.firebaseio.com",
+    "project_id": "avocadoo-278519",
+    "storage_bucket": "avocadoo-278519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607734013013:android:89cd8b20f1e86f1df4c8dc",
+        "android_client_info": {
+          "package_name": "com.avocadoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607734013013-h26u9i4dup12vnqg68icprl5gnguqo7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbVnDD1uF5Pt4G5hgMMCbnSemhdzVDcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607734013013-h26u9i4dup12vnqg68icprl5gnguqo7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
